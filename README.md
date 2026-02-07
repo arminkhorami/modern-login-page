@@ -2,6 +2,7 @@
 ## 🌍 Live Demo
 
 - [v1 Simple Login](https://arminkhorami.github.io/modern-login-page/v1-simple-login/)
+- [v1 Simple Login](https://arminkhorami.github.io/modern-login-page/v2-simple-login/)
 
 ---
 
